@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+}
+.nav1{
+    background-color: rgba(137, 190, 233, 0.877);
+    position: fixed;
+    top: 0;
+    width: 100%;
+   
+}
+.main{
+    padding: 16px;
+  margin-top: 30px;
+  height: 1500px;
+}
+.nav1 li{
+    float: left;
+    list-style: none;
+
+    padding: 15px;
+    font-size: 25px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav1 ul{
+    overflow: auto;
+    margin: 0 auto;
+
+}
+
+.nav1 li a{
+
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+
+}
+a:hover {
+    background-color: goldenrod;
+  }
+  
+.intro-cric{
+    background-color: aqua;
+    padding:50px;
+    margin-top: 80px;
+   
+}
+.intro-cric h1{
+    color: rgb(161, 131, 131); 
+    font-size: 50px;
+}
+.intro-cric p{
+    color: rgb(161, 131, 131); 
+    font-size:25px;
+}
+
+.intro-ftb{
+    background-color: rgb(253, 231, 231);
+    padding:50px;
+    margin-top: 80px;
+}
+.intro-ftb h1{
+    color: black; 
+    font-size: 50px;
+}
+.intro-ftb p{
+    color: black; 
+    font-size:25px;
+}
+
+.intro-hky{
+    background-color: rgba(245, 234, 140, 0.822);
+    padding:50px;
+    margin-top: 80px;
+}
+.intro-hky h1{
+    color: black; 
+    font-size: 50px;
+}
+.intro-hky p{
+    color: black; 
+    font-size:25px;
+}
+
+.intro-bsb{
+    background-color: rgba(207, 150, 85, 0.822);
+    padding:50px;
+    margin-top: 80px;
+}
+.intro-bsb h1{
+    color: white; 
+    font-size: 50px;
+}
+.intro-bsb p{
+    color: white; 
+    font-size:25px;
+}
